@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.icons {
+  height: 75px;
+  width: 75px;
+}
+.currentWeather {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.currentRow {
+  border-right: 1px solid black;
+}
