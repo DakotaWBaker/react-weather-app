@@ -23,3 +23,41 @@ code {
 .currentRow {
   border-right: 1px solid black;
 }
+.tempArrow {
+  height: 20px;
+}
+.lowTemp {
+  height: 20px;
+  transform: rotate(180deg);
+}
+.directionNorth {
+  height: 20px;
+}
+.directionNorthEast {
+  height: 20px;
+  transform: rotate(45deg)
+}
+.directionEast {
+  height: 20px;
+  transform: rotate(90deg)
+}
+.directionSouthEast {
+  height: 20px;
+  transform: rotate(135deg)
+}
+.directionSouth {
+  height: 20px;
+  transform: rotate(180deg)
+}
+.directionSouthWest {
+  height: 20px;
+  transform: rotate(225deg)
+}
+.directionWest {
+  height: 20px;
+  transform: rotate(270deg)
+}
+.directionNorthWest {
+  height: 20px;
+  transform: rotate(315deg)
+}
